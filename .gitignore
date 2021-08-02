@@ -1,0 +1,12 @@
+##ignore this file##
+log/
+__pycache__/
+*.log
+*.pyc
+*.dll
+*.exe
+.idea/
+__pycache__/
+*.out
+config.py
+uploads/
